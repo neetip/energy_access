@@ -1,1 +1,1 @@
-Code accompanying the manuscript under review - `Nowcasting household energy access for up-to-datemonitoring of Sustainable Development Goals` by Pokhriyal, Letouze and Vosoughi. Data availability is described in the Methods section and the reporting summary.
+Code accompanying the manuscript under review - `Nowcasting energy access for accurate and timely monitoring of Sustainable Development Goals` by Pokhriyal, Letouze and Vosoughi. Data availability is described in the paper.
