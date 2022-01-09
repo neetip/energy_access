@@ -1,1 +1,3 @@
-Code accompanying the manuscript under review - `Nowcasting energy access for accurate and timely monitoring of Sustainable Development Goals` by Pokhriyal, Letouze and Vosoughi. Data availability is described in the paper.
+Code accompanying the manuscript under review - `Accurate nowcasts of household energy access at policy-planning microregions to track Sustainable Development Goals` by Pokhriyal, Letouze and Vosoughi. 
+
+Data availability is described in the paper.
